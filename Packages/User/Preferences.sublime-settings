@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/itg.Monokai (SL).tmTheme",
+	"font_face": "San Francisco Display",
+	"font_size": 11,
+	"ignored_packages":
+	[
+	],
+	"line_padding_top": 11,
+	"theme": "Numix.sublime-theme"
+}

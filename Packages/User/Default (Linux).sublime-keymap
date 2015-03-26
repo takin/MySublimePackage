@@ -1,0 +1,5 @@
+[
+	{
+		"keys" : ["f8"], "command" : "reindent", "args" : {"single_line" : false}
+	}
+]

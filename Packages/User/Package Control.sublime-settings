@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Gist",
+		"Git",
+		"LaTeXTools",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Afterglow",
+		"Theme - Argonaut",
+		"Theme - Asphalt",
+		"Theme - Flatland",
+		"Theme - Gravity",
+		"Theme - itg.flat",
+		"Theme - Moka",
+		"Theme - Numix",
+		"Theme - Orchis",
+		"Theme - Soda",
+		"Theme - Spacegray",
+		"TypeScript"
+	]
+}
