@@ -1,6 +1,7 @@
 {
 	"in_process_packages":
 	[
+		"SublimeCodeIntel"
 	],
 	"installed_packages":
 	[
@@ -14,17 +15,7 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"Theme - Afterglow",
-		"Theme - Argonaut",
-		"Theme - Asphalt",
-		"Theme - Flatland",
-		"Theme - Gravity",
-		"Theme - itg.flat",
-		"Theme - Moka",
 		"Theme - Numix",
-		"Theme - Orchis",
-		"Theme - Soda",
-		"Theme - Spacegray",
 		"TypeScript"
 	]
 }
