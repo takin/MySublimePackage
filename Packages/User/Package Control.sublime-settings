@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"AngularJS",
 		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
