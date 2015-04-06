@@ -2,4 +2,5 @@ Backup/*
 Cache/*
 Index/*
 Local/*
+Packages/User/*.last-run
 Packages/User/Package\ Control.cache/*
